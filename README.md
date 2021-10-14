@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zamot4
+- 👀 I’m interested in software engenering
+- 🌱 I’m currently learning SDL
+- 📫 How to reach me: t.wagener96@gmx.de
